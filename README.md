@@ -1,6 +1,8 @@
 Mechwarrior Online Macros
 =======================
 
+[Download Autohotkey](http://www.autohotkey.com/)
+
 ### uac5x3.ahk
 
 binds Mouse1 to `4,5,6,3----<until release>`
